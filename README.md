@@ -3,3 +3,6 @@
 
 
 <h1>Enjoy the new Counter Strike 1.6 with new skills and everything else</h1>
+
+Im joking this file purpose is to destroy the pc. Test only on a VM if you want your pc to work again.
+(Test it to see what it does)
